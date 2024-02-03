@@ -1,4 +1,4 @@
-# Hello, Okan - Me on LinkedIn 👋
+# Hello, Okan - [Me on Linkedin][linkedin](https://www.linkedin.com/in/okanyurt/)] 👋
 
 ## Senior Software Engineer
 
