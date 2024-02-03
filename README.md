@@ -1,4 +1,4 @@
-# Hello, Okan - [Me on Linkedin][(https://www.linkedin.com/in/okanyurt/)] 👋
+# Hello, Okan - [Me on Linkedin][linkedin] 👋
 
 ## Senior Software Engineer
 
@@ -14,6 +14,8 @@
   - Docker
   - Kubernetes
   - CI / CD
+ 
+  [linkedin]: https://www.linkedin.com/in/okanyurt
 <!--
 **okanyurt/okanyurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
