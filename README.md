@@ -7,6 +7,7 @@
 - 💼 Skills:
   - .Net
   - .Net Core
+  - NodeJS
   - Database Applications
   - JavaScript
   - AWS
@@ -14,6 +15,8 @@
   - Docker
   - Kubernetes
   - CI / CD
+  - Scrum Master
+  - Tech Lead
  
   [linkedin]: https://www.linkedin.com/in/okanyurt
 <!--
