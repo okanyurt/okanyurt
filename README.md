@@ -8,6 +8,8 @@
   - .Net
   - .Net Core
   - NodeJS
+  - React
+  - Angular
   - Database Applications
   - JavaScript
   - AWS
