@@ -21,7 +21,7 @@ Senior Software Engineer and Tech Lead with **10+ years** of experience designin
 
 ### 💼 Experience Highlights
 
-- **Turkish Technology** — Senior Software Engineer *(2024 – Present)*: Multi-tenant enterprise apps, distributed architecture, advanced caching, localization, audit systems.
+- **Turkish Technology** — Senior Software Engineer *(2024 – Present)*: Built an AI chatbot infrastructure for an enterprise internal control & audit application — **MCP (Model Context Protocol)** server exposing domain operations as tools, powered by an **on-premise LLM** to meet strict data privacy requirements. Architecting the platform's foundational AI application infrastructure (LLM orchestration, agent/tool integration layers). Multi-tenant enterprise apps, distributed architecture, advanced caching, localization, audit systems.
 - **Monster Notebook** — Expert Back End Developer *(2023 – 2024)*: Redesigned project architecture with DDD & CQRS, led PR/code review processes, Keycloak integration.
 - **Marti Technologies** — Technical Lead / Senior Back End Developer *(2021 – 2023)*: Led the call center software team, mentoring, AWS, .NET Core, Node.js.
 - **LC Waikiki** — Senior Software Development Engineer *(2018 – 2021)*: .NET Core APIs, Angular, T-SQL jobs, performance improvements.
