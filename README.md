@@ -25,6 +25,7 @@ Senior Software Engineer and Tech Lead with **10+ years** of experience designin
 - **Monster Notebook** — Expert Back End Developer *(2023 – 2024)*: Redesigned project architecture with DDD & CQRS, led PR/code review processes, Keycloak integration.
 - **Marti Technologies** — Technical Lead / Senior Back End Developer *(2021 – 2023)*: Led the call center software team, mentoring, AWS, .NET Core, Node.js.
 - **LC Waikiki** — Senior Software Development Engineer *(2018 – 2021)*: .NET Core APIs, Angular, T-SQL jobs, performance improvements.
+- **Earlier Experience** *(2012 – 2018)*: Software development across logistics, customs integration, e-commerce, and tourism domains — C#/.NET, PHP, Delphi, MSSQL/MySQL/PostgreSQL; web, mobile, and Windows service applications, including reservation and operational planning systems.
 
 ### 📫 Reach Me
 
