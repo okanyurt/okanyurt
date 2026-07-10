@@ -1,37 +1,36 @@
-# Hello, Okan - [Me on Linkedin][linkedin] 👋
+# Hi, I'm Okan 👋 — [okanyurt.com][website] · [LinkedIn][linkedin]
 
-## Senior Software Engineer
+## Building AI Systems | LLM Integration, Backend Architecture | Tech Lead
 
-- 🔭 I am an experienced software developer and specialise in distributed systems; I am proficient in various new technologies.
-- 🌱 I have strong communication skills. I am experienced in team management. I have qualifications in getting efficiency from the team and creating team spirit.
-- 💼 Skills:
-  - .Net
-  - .Net Core
-  - NodeJS
-  - React
-  - Angular
-  - Database Applications
-  - JavaScript
-  - AWS
-  - Azure
-  - Docker
-  - Kubernetes
-  - CI / CD
-  - Scrum Master
-  - Tech Lead
- 
-  [linkedin]: https://www.linkedin.com/in/okanyurt
-<!--
-**okanyurt/okanyurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer and Tech Lead with **10+ years** of experience designing and building enterprise-grade backend and AI-enabled systems.
 
-Here are some ideas to get you started:
+- 🔭 Currently at **Turkish Technology**, building multi-tenant enterprise applications with .NET Core & React — scalable APIs, distributed caching, OIDC authentication, and enterprise monitoring.
+- 🤖 Recent focus: **LLM integration, MCP-based workflows, intelligent services**, and scalable backend foundations for AI-driven products.
+- 🏗️ I specialize in **backend architecture** and large-scale distributed systems — DDD, CQRS, and modern architectural patterns.
+- 👥 I lead development teams and help engineers grow, with a fair and supportive leadership style and a knowledge-sharing mindset.
+- ⚡ Passionate about clean code, system performance, observability, and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Backend:** .NET Core · C# · Node.js · Nest.js
+**AI / LLM:** LLM Integration · MCP (Model Context Protocol) · OpenAI API · Intelligent Services
+**Frontend:** React · Angular · JavaScript / TypeScript
+**Databases:** PostgreSQL · MSSQL · MongoDB · Redis · Elasticsearch
+**Cloud & DevOps:** AWS · Docker · CI/CD · Terraform · RabbitMQ
+**Auth & Monitoring:** OpenID Connect (OIDC) · Keycloak · Graylog
+
+### 💼 Experience Highlights
+
+- **Turkish Technology** — Senior Software Engineer *(2024 – Present)*: Multi-tenant enterprise apps, distributed architecture, advanced caching, localization, audit systems.
+- **Monster Notebook** — Expert Back End Developer *(2023 – 2024)*: Redesigned project architecture with DDD & CQRS, led PR/code review processes, Keycloak integration.
+- **Marti Technologies** — Technical Lead / Senior Back End Developer *(2021 – 2023)*: Led the call center software team, mentoring, AWS, .NET Core, Node.js.
+- **LC Waikiki** — Senior Software Development Engineer *(2018 – 2021)*: .NET Core APIs, Angular, T-SQL jobs, performance improvements.
+
+### 📫 Reach Me
+
+- 🌐 [okanyurt.com][website]
+- 💼 [LinkedIn][linkedin]
+- 📧 okan.yurt@hotmail.com
+
+[website]: https://okanyurt.com
+[linkedin]: https://www.linkedin.com/in/okanyurt
